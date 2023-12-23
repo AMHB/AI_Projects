@@ -1,7 +1,7 @@
 import openai
 
 # My API key* Account amehrb@gmail.com
-api_key = "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"
+api_key = "XXXXXXXXXXXXXXXXXXXXXXXXX"
 openai.api_key = api_key
 
 # Define the conversation function
